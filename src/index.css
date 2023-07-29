@@ -1,0 +1,13 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+*{
+    font-family: 'Roboto', sans-serif;
+}
+body{
+    background-color: #e5e5f7;
+    opacity: 1;
+    background-image:  linear-gradient(30deg, #f745db 12%, transparent 12.5%, transparent 87%, #f745db 87.5%, #f745db), linear-gradient(150deg, #f745db 12%, transparent 12.5%, transparent 87%, #f745db 87.5%, #f745db), linear-gradient(30deg, #f745db 12%, transparent 12.5%, transparent 87%, #f745db 87.5%, #f745db), linear-gradient(150deg, #f745db 12%, transparent 12.5%, transparent 87%, #f745db 87.5%, #f745db), linear-gradient(60deg, #f745db77 25%, transparent 25.5%, transparent 75%, #f745db77 75%, #f745db77), linear-gradient(60deg, #f745db77 25%, transparent 25.5%, transparent 75%, #f745db77 75%, #f745db77);
+    background-size: 30px 53px;
+    background-position: 0 0, 0 0, 15px 26px, 15px 26px, 0 0, 15px 26px;
+}
